@@ -20,7 +20,7 @@ Braun Watch
 
 Braun Clock
 
-![braun_clock](https://github.com/jakesq/weatherdial/blob/master/braunclock.jpeg?raw=true)
+<img src='https://github.com/jakesq/weatherdial/blob/master/braunclock.jpeg?raw=true' width='350'>
 
 Static screenshots from the clock, demonstrating a handful of the dynamic backgrounds.
 
