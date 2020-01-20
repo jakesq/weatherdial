@@ -6,8 +6,8 @@ This is achieved through the use of dynamic animated backgrounds, illustrating c
 
 Windy Night
 
-<img src='weatherdial/windy-dark.gif' width='350'>
+![windy_night](https://github.com/jakesq/weatherdial/blob/master/windy-night.gif?raw=true)
 
-Windy Day
+Snowy Day
 
-<img src='weatherdial/snowy-day.gif' width='350'>
+![snowy_day](https://github.com/jakesq/weatherdial/blob/master/snowy-day.gif?raw=true)
