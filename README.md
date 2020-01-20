@@ -12,6 +12,16 @@ Windy Night
 
 ![windy_night](https://github.com/jakesq/weatherdial/blob/master/windy-night.gif?raw=true)
 
+The hand design, colour and other subtle accents draw inspiration from the work of Dieter Rams, German Designer, at Braun.
+
+Braun Watch
+
+![braun_watch](https://github.com/jakesq/weatherdial/blob/master/braunwatch.jpeg?raw=true)
+
+Braun Clock
+
+![braun_clock](https://github.com/jakesq/weatherdial/blob/master/braunclock.jpeg?raw=true)
+
 Static screenshots from the clock, demonstrating a handful of the dynamic backgrounds.
 
 Raining Day
