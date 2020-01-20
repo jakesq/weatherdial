@@ -1,15 +1,13 @@
-# Flutter Clock
+# Weather Dial - Flutter Clock Competition
 
-Welcome to Flutter Clock!
+Weather Dial has been developed to infuse time and weather, a window to the world from the comfort of the user's home.
 
-See [flutter.dev/clock](https://flutter.dev/clock) for how to get started, submission requirements, contest rules, and FAQs.
+This is achieved through the use of dynamic animated backgrounds, illustrating changes in the weather over day and night.
 
-See a [live demo](https://maryx.github.io/flutter_clock) with Flutter for Web!
+Windy Night
 
-Example [Analog Clock](analog_clock)
+<img src='analog_clock/assets/windy_dark' width='350'>
 
-<img src='analog_clock/analog.gif' width='350'>
+Windy Day
 
-Example [Digital Clock](digital_clock)
-
-<img src='digital_clock/digital.gif' width='350'>
+<img src='digital_clock/assets/windy_light' width='350'>
