@@ -16,16 +16,16 @@ Static screenshots from the clock, demonstrating a handful of the dynamic backgr
 
 Raining Day
 
-![raining_day](https://github.com/jakesq/weatherdial/blob/master/raining-day.png?raw=true)
+![raining_day](https://github.com/jakesq/weatherdial/blob/master/raining_day.png?raw=true)
 
 Foggy Night
 
-![foggy_night](https://github.com/jakesq/weatherdial/blob/master/foggy-night.png?raw=true)
+![foggy_night](https://github.com/jakesq/weatherdial/blob/master/foggy_night.png?raw=true)
 
 Sunny Day
 
-![sunny_day](https://github.com/jakesq/weatherdial/blob/master/sunny-day.png?raw=true)
+![sunny_day](https://github.com/jakesq/weatherdial/blob/master/sunny_day.png?raw=true)
 
 Sunny Night
 
-![sunny_night](https://github.com/jakesq/weatherdial/blob/master/sunny-night.png?raw=true)
+![sunny_night](https://github.com/jakesq/weatherdial/blob/master/sunny_night.png?raw=true)
