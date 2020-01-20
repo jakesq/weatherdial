@@ -11,3 +11,21 @@ Snowy Day
 Windy Night
 
 ![windy_night](https://github.com/jakesq/weatherdial/blob/master/windy-night.gif?raw=true)
+
+Static screenshots from the clock, demonstrating a handful of the dynamic backgrounds.
+
+Raining Day
+
+![raining_day](https://github.com/jakesq/weatherdial/blob/master/raining-day.png?raw=true)
+
+Foggy Night
+
+![foggy_night](https://github.com/jakesq/weatherdial/blob/master/foggy-night.png?raw=true)
+
+Sunny Day
+
+![sunny_day](https://github.com/jakesq/weatherdial/blob/master/sunny-day.png?raw=true)
+
+Sunny Night
+
+![sunny_night](https://github.com/jakesq/weatherdial/blob/master/sunny-night.png?raw=true)
