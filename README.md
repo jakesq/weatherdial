@@ -6,8 +6,8 @@ This is achieved through the use of dynamic animated backgrounds, illustrating c
 
 Windy Night
 
-<img src='analog_clock/assets/windy_dark' width='350'>
+<img src='weatherdial/windy-dark.gif' width='350'>
 
 Windy Day
 
-<img src='digital_clock/assets/windy_light' width='350'>
+<img src='weatherdial/snowy-day.gif' width='350'>
