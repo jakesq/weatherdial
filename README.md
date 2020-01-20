@@ -10,7 +10,7 @@ Snowy Day
 
 Windy Night
 
-![windy_night](https://github.com/jakesq/weatherdial/blob/master/windy-night.gif?raw=true)
+<img src='https://github.com/jakesq/weatherdial/blob/master/windy-night.gif?raw=true' width='450'>
 
 The hand design, colour and other subtle accents draw inspiration from the work of Dieter Rams, German Designer, at Braun.
 
