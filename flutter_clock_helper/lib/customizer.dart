@@ -158,7 +158,7 @@ class _ClockCustomizerState extends State<ClockCustomizer> {
     return Builder(
       builder: (BuildContext context) {
         return IconButton(
-          icon: Icon(Icons.settings),
+          icon: Icon(Icons.settings,color: Colors.white),
           tooltip: 'Configure clock',
           onPressed: () {
             Scaffold.of(context).openEndDrawer();
@@ -177,13 +177,20 @@ class _ClockCustomizerState extends State<ClockCustomizer> {
       child: AspectRatio(
         aspectRatio: 5 / 3,
         child: Container(
-          decoration: BoxDecoration(
-            border: Border.all(
-              width: 2,
-              color: Theme.of(context).unselectedWidgetColor,
+          child: Container(
+            color: Colors.black,
+            padding: EdgeInsets.all(5),
+            child: AspectRatio(
+              aspectRatio: 5/3,
+              child: Container(
+                decoration: BoxDecoration(
+                  color: Colors.white,
+                  borderRadius: BorderRadius.circular(10)
+                ),
+                child: widget._clock(_model),
+              ),
             ),
           ),
-          child: widget._clock(_model),
         ),
       ),
     );
@@ -196,6 +203,7 @@ class _ClockCustomizerState extends State<ClockCustomizer> {
       home: Scaffold(
         resizeToAvoidBottomPadding: false,
         endDrawer: _configDrawer(context),
+        backgroundColor: Colors.black,
         body: SafeArea(
           child: GestureDetector(
             behavior: HitTestBehavior.opaque,
@@ -208,14 +216,14 @@ class _ClockCustomizerState extends State<ClockCustomizer> {
               children: [
                 clock,
                 if (_configButtonShown)
-                  Positioned(
-                    top: 0,
-                    right: 0,
-                    child: Opacity(
-                      opacity: 0.7,
-                      child: _configButton(),
-                    ),
+                Positioned(
+                  top: 0,
+                  right: 0,
+                  child: Opacity(
+                    opacity: 0.7,
+                    child: _configButton(),
                   ),
+                ),
               ],
             ),
           ),

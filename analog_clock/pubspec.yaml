@@ -10,7 +10,6 @@ dependencies:
     sdk: flutter
   flutter_clock_helper:
     path: ../flutter_clock_helper
-  cupertino_icons: ^0.1.2
 
 dev_dependencies:
   flutter_test:
@@ -18,3 +17,20 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+
+  assets:
+    - assets/snowing_light.gif
+    - assets/snowing_dark.gif
+    - assets/raining_dark.gif
+    - assets/raining_light.gif
+    - assets/sunny_light.gif
+    - assets/sunny_dark.gif
+    - assets/cloudy_dark.gif
+    - assets/cloudy_light.gif
+    - assets/foggy_light.gif
+    - assets/foggy_dark.gif
+    - assets/thunderstorm_light.gif
+    - assets/thunderstorm_dark.gif
+    - assets/windy_light.gif
+    - assets/windy_dark.gif
+    
