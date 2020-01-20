@@ -16,7 +16,7 @@ The hand design, colour and other subtle accents draw inspiration from the work 
 
 Braun Watch
 
-![braun_watch](https://github.com/jakesq/weatherdial/blob/master/braunwatch.jpeg?raw=true)
+![braun_watch](https://github.com/jakesq/weatherdial/blob/master/braunwatch.jpeg?raw=true) { width=50% height=50% }
 
 Braun Clock
 
